@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { Link } from "react-router-dom";
 import { Layout, Header, Navigation, Drawer, Content } from "react-mdl";
 
 class Landing extends Component {
@@ -9,18 +10,18 @@ class Landing extends Component {
           <Layout>
             <Header title="HOME" scroll>
               <Navigation>
-                <a href="/">Link</a>
-                <a href="/">Link</a>
-                <a href="/">Link</a>
-                <a href="/">Link</a>
+                <Link to="/resume">Resume</Link>
+                <Link to="/about">About Me</Link>
+                <Link to="/projects">Projects</Link>
+                <Link to="/contact">Contact</Link>
               </Navigation>
             </Header>
             <Drawer title="Title">
               <Navigation>
-                <a href="/">Link</a>
-                <a href="/">Link</a>
-                <a href="/">Link</a>
-                <a href="/">Link</a>
+                <Link to="/resume">Resume</Link>
+                <Link to="/about">About Me</Link>
+                <Link to="/projects">Projects</Link>
+                <Link to="/contact">Contact</Link>
               </Navigation>
             </Drawer>
             <Content>
