@@ -1,7 +1,12 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
 import { Layout, Header, Navigation, Drawer, Content } from "react-mdl";
-import Main from "./Main";
+import Resume from "./resume";
+import Projects from "./projects";
+import About from "./aboutme";
+import Contact from "./contact";
+import Default from "./default";
+import { Switch, Route } from "react-router-dom";
 
 class Landing extends Component {
   render() {
@@ -27,7 +32,13 @@ class Landing extends Component {
             </Drawer>
             <Content>
               <div className="page-content" />
-              <Main />
+              <Switch>
+                <Route path="/resume" component={Resume} />
+                <Route path="/projects" component={Projects} />
+                <Route path="/about" component={About} />
+                <Route path="/contact" component={Contact} />
+                <Route component={Default} />
+              </Switch>
             </Content>
           </Layout>
         </div>
