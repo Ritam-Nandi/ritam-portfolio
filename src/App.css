@@ -10,8 +10,12 @@
     #ffc500,
     #c21500
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  font-family: "Comic Sans MS", cursive, sans-serif;
 }
-
+.header-font {
+  color: black;
+  font-size: 20px;
+}
 .landing-grid {
   background: #c21500; /* fallback for old browsers */
   background: -webkit-linear-gradient(

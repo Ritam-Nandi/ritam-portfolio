@@ -11,20 +11,40 @@ class App extends Component {
         <Layout>
           <Header className="header-color" title=" " scroll>
             <Navigation>
-              <Link to="/">Home</Link>
-              <Link to="/resume">Resume</Link>
-              <Link to="/about">About Me</Link>
-              <Link to="/projects">Projects</Link>
-              <Link to="/contact">Contact</Link>
+              <Link to="/">
+                <div className="header-font">Home</div>
+              </Link>
+              <Link to="/resume">
+                <div className="header-font">Resume</div>
+              </Link>
+              <Link to="/about">
+                <div className="header-font">About Me</div>
+              </Link>
+              <Link to="/projects">
+                <div className="header-font">Projects</div>
+              </Link>
+              <Link to="/contact">
+                <div className="header-font">Contact</div>
+              </Link>
             </Navigation>
           </Header>
           <Drawer title=" ">
             <Navigation>
-              <Link to="/">Home</Link>
-              <Link to="/resume">Resume</Link>
-              <Link to="/about">About Me</Link>
-              <Link to="/projects">Projects</Link>
-              <Link to="/contact">Contact</Link>
+              <Link to="/">
+                <div className="header-font">Home</div>
+              </Link>
+              <Link to="/resume">
+                <div className="header-font">Resume</div>
+              </Link>
+              <Link to="/about">
+                <div className="header-font">About Me</div>
+              </Link>
+              <Link to="/projects">
+                <div className="header-font">Projects</div>
+              </Link>
+              <Link to="/contact">
+                <div className="header-font">Contact</div>
+              </Link>
             </Navigation>
           </Drawer>
           <Content>
