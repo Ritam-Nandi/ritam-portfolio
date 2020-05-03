@@ -1,6 +1,4 @@
 import React, { Component } from "react";
-import Landing from "./landingpage";
-
 class About extends Component {
   render() {
     return (
