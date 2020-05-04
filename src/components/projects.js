@@ -30,7 +30,7 @@ class Projects extends Component {
                 color: "#fff",
                 height: "190px",
                 background:
-                  "url(https://lh3.googleusercontent.com/proxy/gmcE84tEbz9-EkhGhW1dJkSAsmP2KRDMbYzAh0RDOJF9gIMfMlqp_ejL_rmbWa5JGCkVWMN0nUZFQVLbfzHPtprhHYQPiDAM_yfgGMN8nl9Oipy7rCSmY1YmwGHzRnAVS5B4R3Q3XU7Oe5Wyk9BDMEZi5hgH5oPXf3Dn4PPqMfPCl2Am) center / cover"
+                  "url(https://scontent.fblr8-1.fna.fbcdn.net/v/t1.0-9/95378051_101810151530983_7801002039491690496_n.jpg?_nc_cat=109&_nc_sid=8024bb&_nc_ohc=idGb0D75oIEAX-Glfv2&_nc_ht=scontent.fblr8-1.fna&oh=1b0d692e3c04aabeaee6ee3d9038adcb&oe=5ED3FD6C) center / cover"
               }}
             >
               Port Folio Website
@@ -53,7 +53,7 @@ class Projects extends Component {
                 color: "#fff",
                 height: "190px",
                 background:
-                  "url(https://lh3.googleusercontent.com/proxy/gmcE84tEbz9-EkhGhW1dJkSAsmP2KRDMbYzAh0RDOJF9gIMfMlqp_ejL_rmbWa5JGCkVWMN0nUZFQVLbfzHPtprhHYQPiDAM_yfgGMN8nl9Oipy7rCSmY1YmwGHzRnAVS5B4R3Q3XU7Oe5Wyk9BDMEZi5hgH5oPXf3Dn4PPqMfPCl2Am) center / cover"
+                  "url(https://scontent.fblr8-1.fna.fbcdn.net/v/t1.0-9/95378051_101810151530983_7801002039491690496_n.jpg?_nc_cat=109&_nc_sid=8024bb&_nc_ohc=idGb0D75oIEAX-Glfv2&_nc_ht=scontent.fblr8-1.fna&oh=1b0d692e3c04aabeaee6ee3d9038adcb&oe=5ED3FD6C) center / cover"
               }}
             >
               React Project 2
@@ -80,13 +80,13 @@ class Projects extends Component {
                 color: "#fff",
                 height: "190px",
                 background:
-                  "url(https://lh3.googleusercontent.com/proxy/JXPT_3ECtrmVV8NpYKjFsOgf7Z2qOXzcsHlYuhVQe0xvrUlcNpZM1rCc9Xl7DL9AK_Nef_cfgFyQfbI6dsFd2YmmpEsHLTye71-xogQBRIiJ-0Og-puRUV8I_4A) center / cover"
+                  "url(https://scontent.fblr8-1.fna.fbcdn.net/v/t1.0-9/95703843_101808631531135_9042260378448297984_n.jpg?_nc_cat=105&_nc_sid=8024bb&_nc_ohc=114fCSwg1JoAX_0haG3&_nc_ht=scontent.fblr8-1.fna&oh=7f66e749db1177bcc7fa7518139fcf6e&oe=5ED43EAE) center / cover"
               }}
             >
               Time converter
             </CardTitle>
             <CardText>
-              Porblem working with clients all over the globe! Fear not for I
+              Problem working with clients all over the globe? Fear not for I
               have come up with a handy time converter for commonly used clocks
             </CardText>
             <CardActions border style={{ textAlign: "center" }}>
@@ -103,7 +103,7 @@ class Projects extends Component {
                 color: "#fff",
                 height: "190px",
                 background:
-                  "url(https://lh3.googleusercontent.com/proxy/JXPT_3ECtrmVV8NpYKjFsOgf7Z2qOXzcsHlYuhVQe0xvrUlcNpZM1rCc9Xl7DL9AK_Nef_cfgFyQfbI6dsFd2YmmpEsHLTye71-xogQBRIiJ-0Og-puRUV8I_4A) center / cover"
+                  "url(https://scontent.fblr8-1.fna.fbcdn.net/v/t1.0-9/95703843_101808631531135_9042260378448297984_n.jpg?_nc_cat=105&_nc_sid=8024bb&_nc_ohc=114fCSwg1JoAX_0haG3&_nc_ht=scontent.fblr8-1.fna&oh=7f66e749db1177bcc7fa7518139fcf6e&oe=5ED43EAE) center / cover"
               }}
             >
               Java Project 2
@@ -130,7 +130,7 @@ class Projects extends Component {
                 color: "#fff",
                 height: "190px",
                 background:
-                  "url(https://www.xploreitcorp.com/wp-content/uploads/2017/10/python-logo-3.6-460x276.gif) center / cover"
+                  "url(https://scontent.fblr8-1.fna.fbcdn.net/v/t1.0-9/95511384_101812421530756_8762202470362382336_n.jpg?_nc_cat=109&_nc_sid=8024bb&_nc_ohc=S5MZ7qDrmecAX_Fg6N7&_nc_ht=scontent.fblr8-1.fna&oh=ff023e48d112004868c1fe5b59a1584e&oe=5ED623B9) center / cover"
               }}
             >
               Python Project 1
@@ -153,7 +153,7 @@ class Projects extends Component {
                 color: "#fff",
                 height: "190px",
                 background:
-                  "url(https://www.xploreitcorp.com/wp-content/uploads/2017/10/python-logo-3.6-460x276.gif) center / cover"
+                  "url(https://scontent.fblr8-1.fna.fbcdn.net/v/t1.0-9/95511384_101812421530756_8762202470362382336_n.jpg?_nc_cat=109&_nc_sid=8024bb&_nc_ohc=S5MZ7qDrmecAX_Fg6N7&_nc_ht=scontent.fblr8-1.fna&oh=ff023e48d112004868c1fe5b59a1584e&oe=5ED623B9) center / cover"
               }}
             >
               Python Project 2
